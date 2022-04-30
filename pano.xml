@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.6" start="node1" apprev="17950">
+  <panorama id="node1">
+    <input levelingroll="-1.8" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-2.2" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:40" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node1" copyright="" title="1" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-9.09" skinid="ht_node" description="" id="Point01" pan="-170.88" url="{node2}" title="Далее по коридору" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="-1.5" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-2.2" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:41" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node2" copyright="" title="2" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-5.19" skinid="ht_node" description="" id="Point01" pan="-258.91" url="{node3}" title="В главный коридор" target=""/>
+      <hotspot tilt="-7.83" skinid="ht_node" description="" id="Point02" pan="-78.64" url="{node1}" title="Назад" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="-2.1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-1.8" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:42" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node3" copyright="" title="3" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-17.88" skinid="ht_node" description="" id="Point01" pan="-261.59" url="{node4}" title="Ко входу в кабинет" target=""/>
+      <hotspot tilt="-10.12" skinid="ht_node" description="" id="Point02" pan="-162.82" url="{node6}" title="Далее по главному коридору" target=""/>
+      <polyhotspot description="" id="Poly01" url="{node2}" title="выход" target="">
+        <polystring>-81.13/17.58|-34.9/12.71|-36.11/-27.26|-71.59/-32.99|-70.77/-7.61|-70.75/11.14|-80.53/11.46</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="-2.2" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-1.6" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:42" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node4" copyright="" title="4" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-16.24" skinid="ht_node" description="" id="Point02" pan="-336.6" url="{node3}" title="" target=""/>
+      <polyhotspot description="" id="Poly01" url="{node5}" title="Разработка VR/AR приложений" target="">
+        <polystring>-57.06/11.17|-100.73/11.64|-101.33/-39.47|-58.09/-38.75</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="-2.5" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-1.4" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:43" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node5" copyright="" title="5" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <polyhotspot description="" id="Poly01" url="{node4}" title="" target="">
+        <polystring>-147.8/11.38|-193.64/11.19|-190.46/-42.58|-148.1/-37.43|-147.68/-12.19</polystring>
+      </polyhotspot>
+      <polyhotspot description="" id="Poly03" url="" title="" target="_blank">
+        <polystring>-241.76/-9.81|-241.95/-10.83|-242.27/-11.86|-242.33/-12.54</polystring>
+      </polyhotspot>
+      <hotspot tilt="-6.52" skinid="ht_info" description="РАЗРАБОТКА VR/AR ПРИЛОЖЕНИЙ.&#xa;ВИРТУАЛЬНАЯ И ДОПОЛНЕННАЯ РЕАЛЬНОСТЬ&#xa;Virtual Reality или виртуальная реальность – это искусственный мир, созданный средствами компьютерного моделирования, имитация реального мира. Augmented Reality или дополненная реальность – технология интерактивной компьютерной визуализации, которая дополняет реальный мир виртуальными элементами и дает возможность взаимодействовать с ними. - Изучение 3D-моделирования на основе программ 3D Мax, Blender 3D, SketchUp, инструментов среды разработки и создание собственного проекта в Unity, Unreal Engine, возможностей платформы Vuforia. - Знакомство с VR очками и шлемами, работа с камерами 360 градусов. Чему здесь можно научиться: - Узнать о существующих технологиях виртуальной и дополненной реальности; - Изучить ведущие программы по разработке VR/AR приложений; - Создавать красочные и сложные цифровые проекты; - Подготовиться к олимпиадам различного уровня сложности по виртуальной и дополненной реальности; - Развивать свою фантазию и креативность при создании интерактивных проектов; - Работа в команде при выполнении проектной деятельности. Возраст детей: от 10 до 17 лет&#xa;Финансирование: бюджет РК&#xa;Срок реализации: 2 года" id="Point01" pan="-222.44" url="" title="РАЗРАБОТКА VR/AR ПРИЛОЖЕНИЙ.&#xa;ВИРТУАЛЬНАЯ И ДОПОЛНЕННАЯ РЕАЛЬНОСТЬ" target=""/>
+      <hotspot tilt="-16.14" skinid="ht_info" description="VR - СТАРТ&#xa;Программа состоит из последовательности тем, позволяющих ребенку с минимальными навыками работы на компьютере освоить инструменты для работы с виртуальной реальностью и создать простое приложения для нее. Основные темы, которые включает программа:   &#xa;Интернет для обучения и общения. Безопасность в сети. Интернет - как уберечь себя и своих друзей. Интернет для командной работы – вместе работать веселей!&#xa; &#xa;&#xa;Сочини свою историю! Работа с текстовым редактором.&#xa; &#xa;&#xa;Нарисуй свою историю! Работа с графическим редактором.&#xa; &#xa;&#xa;Учись выступать! Как создать презентацию.&#xa; &#xa;&#xa;Работа с файловой системой компьютера.&#xa; &#xa;&#xa;Моделирование окружающего мира. Моделирование, как способ реализовать фантазию.&#xa; &#xa;&#xa;Играем в конструкторы (моделируем материальные объекты). Конструирование, как способ творить мечту.&#xa; &#xa;&#xa;Основы работы с виртуальной реальностью (приложения для обучения в шлеме VR). Художественная, космическая, игровая, техническая, лингвистическая виртуальная реальность.&#xa; &#xa;&#xa;Знакомство и изучение основ работы с Unreal Engine. Создание простого проекта.&#xa;Возраст детей: от 8 до 10 лет&#xa;Финансирование: софинансирование ПФ&#xa;Срок реализации: 1 год" id="Point02" pan="-219.67" url="" title="VR - СТАРТ" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="-1.9" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-1.8" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:44" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node6" copyright="" title="6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-6.68" skinid="ht_node" description="" id="Point01" pan="-173.44" url="{node3}" title="К выходу" target=""/>
+      <hotspot tilt="-11.28" skinid="ht_node" description="" id="Point03" pan="-355.28" url="{node8}" title="Далее по коридору (в холл)" target=""/>
+      <polyhotspot description="" id="Poly01" url="{node15}" title="Scratch" target="">
+        <polystring>-61.04/20.37|-62.06/-44.23|-116.54/-41.57|-116.09/22.47</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="-1.9" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-2.5" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:45" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node8" copyright="" title="8" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <polyhotspot description="" id="Poly01" url="{node6}" title="К выходу" target="">
+        <polystring>-351.78/7.16|-16.56/7.55|-16.93/-18.49|-351.9/-20.51</polystring>
+      </polyhotspot>
+      <polyhotspot description="" id="Poly02" url="{node12}" title="К кабинету" target="">
+        <polystring>-187.9/7.98|-210/6.19|-208.96/-15.63|-187.53/-16.57</polystring>
+      </polyhotspot>
+      <polyhotspot description="" id="Poly03" url="{node9}" title="К кабинету Java" target="">
+        <polystring>-302.26/-19.4|-291.2/-21.23|-291.73/2.36|-302.61/2.29</polystring>
+      </polyhotspot>
+      <hotspot tilt="1.45" skinid="ht_url" description="" id="Point01" pan="-261.09" url="https://kvantorium11.ru/photozona-it-cube" title="Фотографии центра" target="_blank"/>
+      <hotspot tilt="-8.55" skinid="ht_url" description="" id="Point02" pan="-260.71" url="https://kvantorium11.ru/it-cube-programs#vozvrat" title="Официальный сайт" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="-1.7" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-2" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:46" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node9" copyright="" title="9" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-21.18" skinid="ht_node" description="" id="Point01" pan="-302.04" url="{node8}" title="" target=""/>
+      <polyhotspot description="" id="Poly01" url="{node10}" title="В кабинет Java" target="">
+        <polystring>-59.77/23.66|-125.83/23.84|-126.32/-47.19|-59.47/-47.79</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="-2.2" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-1.9" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:47" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node10" copyright="" title="10" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-10.77" skinid="ht_node" description="" id="Point01" pan="-346.5" url="{node11}" title="Осмотр" target=""/>
+      <hotspot tilt="-1.34" skinid="ht_info" description="РАЗРАБОТКА МОБИЛЬНЫХ ПРИЛОЖЕНИЙ НА ЯЗЫКЕ JAVA&#xa;&#xa;&#xa;Java – строго типизированный объектно-ориентированный язык программирования, который активно используется для создания мобильных приложений под операционную систему Android.&#xa;&#xa;Направление содержит:&#xa;- Основы программирования на языке Java.&#xa;- Введение в объектно-ориентированное программирование.&#xa;- Разработка мобильных приложений на платформе Android.&#xa;- Алгоритмы и структуры данных на языке Java.&#xa;- Основы разработки серверной части мобильных приложений.&#xa;&#xa;Ребенок научится:&#xa;- Программировать на языке Java.&#xa;- Проектировать приложения под мобильную ОС Android.&#xa;- Создавать игры для мобильных устройств.&#xa;&#xa;Программа способствует формированию самостоятельности и творческого подхода к решению задач с использованием средств вычислительной техники, навыков алгоритмического и логического мышления&#xa;&#xa;Возраст детей: от 14 до 17 лет&#xa;Финансирование: бюджет РК&#xa;Срок реализации: 2 года" id="Point03" pan="-345.41" url="" title="РАЗРАБОТКА МОБИЛЬНЫХ ПРИЛОЖЕНИЙ НА ЯЗЫКЕ JAVA" target=""/>
+      <hotspot tilt="-0.88" skinid="ht_info" description="IT-ШКОЛА SAMSUNG создана специалистами Исследовательского центра Samsung при поддержке ведущих преподавателей Московского физико-технического института (МФТИ). Java – строго типизированный объектно-ориентированный язык программирования, который активно используется для создания мобильных приложений под операционную систему Android. Направление содержит: - Основы программирования на языке Java. - Введение в объектно-ориентированное программирование. - Разработка мобильных приложений на платформе Android. - Алгоритмы и структуры данных на языке Java. - Основы разработки серверной части мобильных приложений. Ребенок научится: - Программировать на языке Java. - Проектировать приложения под мобильную ОС Android. - Создавать игры для мобильных устройств. Программа способствует формированию самостоятельности и творческого подхода к решению задач с использованием средств вычислительной техники, навыков алгоритмического и логического мышления Возраст детей: от 14 до 17 лет Финансирование: бюджет РК Срок реализации: 2 года ЗАЧИСЛЕНИЕ НА ПРОГРАММУ ПАРТНЕРА IT ШКОЛА SAMSUNG ПРОВОДИТСЯ ПОСЛЕ ТЕСТИРОВАНИЯ И СОБЕСЕДОВАНИЯ" id="Point02" pan="-334.54" url="" title="РАЗРАБОТКА МОБИЛЬНЫХ ПРИЛОЖЕНИЙ НА ЯЗЫКЕ JAVA.&#xa;ОФИЦИАЛЬНАЯ ПРОГРАММА IT ШКОЛЫ SAMSUNG" target=""/>
+      <polyhotspot description="" id="Poly01" url="{node9}" title="" target="">
+        <polystring>-256.93/4.96|-232.52/5.1|-230.69/-28.48|-255.06/-31</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="-1.9" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-1.7" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:48" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node11" copyright="" title="11" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-10.57" skinid="ht_node" description="" id="Point01" pan="-353.75" url="{node10}" title="Назад" target=""/>
+      <hotspot tilt="-3.47" skinid="ht_node" description="" id="Point02" pan="-18.6" url="{node9}" title="Выход" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingroll="-2.1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-1.6" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:49" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node12" copyright="" title="12" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-12.53" skinid="ht_node" description="" id="Point01" pan="-108.64" url="{node8}" title="В холл" target=""/>
+      <hotspot tilt="-5" skinid="ht_node" description="" id="Point02" pan="-82.13" url="{node9}" title="" target=""/>
+      <hotspot tilt="-5.75" skinid="ht_node" description="" id="Point03" pan="-102.36" url="{node6}" title="" target=""/>
+      <hotspot tilt="-6.68" skinid="ht_info" description="вмммммммммявяс я" id="Point04" pan="-163.75" url="свя" title="вямммя яяяс" target="сяв"/>
+      <polyhotspot description="" id="Poly01" url="{node13}" title="В кабинет Pyton" target="">
+        <polystring>-321.58/9.77|-5.49/11.88|-12.91/11.98|-13.83/-48.37|-323.56/-45.72</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingroll="-1.3" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-3" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:50" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node13" copyright="" title="13" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-19.39" skinid="ht_node" description="" id="Point01" pan="-104.71" url="{node12}" title="Выход" target=""/>
+      <hotspot tilt="-8.28" skinid="ht_node" description="" id="Point02" pan="-182.86" url="{node14}" title="Осмотр" target=""/>
+      <hotspot tilt="-1.7" skinid="ht_info" description="ОСНОВЫ ПРОГРАММИРОВАНИЯ НА ЯЗЫКЕ PYTHON.&#xa;БАЗОВЫЕ НАВЫКИ&#xa;&#xa;&#xa;Есть 5 причин изучать Python.&#xa;&#xa;1. Синтаксис языка Python выглядит довольно простым и легко воспринимается даже непрофессионалами. Нет необходимости в утомительных переменных и непривлекательных фигурных скобках. Инструменты Python просты и доступны.&#xa;&#xa;2. Python объектно-ориентированный язык, равно как и JavaScript, С++, С#, Perl, Ruby. Но требует меньше кода для выполнения основных задач, что делает его экономичных для изучения. Код Python в несколько раз короче, чем код на Java или С++. Имеет огромную экосистему с бесплатными библиотеками.&#xa;&#xa;3. Python – язык, который вам потребуется, чтобы начать разрабатывать собственный веб-сайт и приложения.&#xa;&#xa;4. Работодатели ищут программистов и знание языка Python поможет вам попасть в их число!&#xa;&#xa;5. Программирование на Python развивает креативность, логическое мышление, навыки поиска и устранения ошибок. Позволяет создавать игры, красочные и сложные проекты.&#xa;&#xa;Хотите, чтобы ваш ребенок участвовал в конкурсах и олимпиадах для юных инженеров? Изучайте Python!&#xa;&#xa;Возраст детей: от 12 до 17 лет&#xa;Финансирование: бюджет РК&#xa;Срок реализации: 2 года" id="Point03" pan="-182.67" url="" title="ОСНОВЫ ПРОГРАММИРОВАНИЯ НА ЯЗЫКЕ PYTHON.&#xa;БАЗОВЫЕ НАВЫКИ" target=""/>
+      <hotspot tilt="0.33" skinid="ht_info" description="Программа представляет собой изучение и практическое применение Python для научных вычислений и научного моделирования в различных областях, таких как математика, физика, биология и генная инженерия. Будут рассмотрены базовые конструкции языка (переменные, математические операторы и арифметика, типы данных, циклы и условия, списки, функции и др.), так и специализированные библиотеки для ускорения и упрощения расчётов, визуализации данных (numpy, scipy, matplotlib и др.). Желательно, чтобы обучающиеся уже обладали базовыми знаниями в программировании. Проведение расчётов и создание моделей будет происходить параллельно с изучением языка по типу практических заданий. Обучающийся не только глубоко изучит предмет моделирования (конкретную физическую или другую модель), но и сможет рассмотреть её с точки зрения программного кода, тем самым сопоставив абстрактные сущности программирования с реальными жизненными явлениями. Возраст детей: от 12 до 17 лет&#xa;Финансирование: софинансирование ПФ&#xa;Срок реализации: 1 год" id="Point04" pan="-171.85" url="" title="НАУЧНОЕ ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ PYTHON" target=""/>
+      <hotspot tilt="-0.44" skinid="ht_info" description="Яндекс.Лицей — это образовательный проект Яндекса по обучению школьников программированию. Учебная программа рассчитана на два года. На занятиях ребята знакомятся с теорией и осваивают технологии на практике. Обучение в проекте «Яндекс.Лицей» бесплатное. С программированием школьники знакомятся на примере Python. Этот язык несложно освоить, к тому же он позволяет решать множество задач. Python — один из самых популярных языков в мире, применение ему находится и в YouTube, и в NASA, и у нас в Яндексе. А ещё он назван в честь «Летающего цирка Монти Пайтона». В общем, отличный вариант для начала. Учебная программа разработана в Школе анализа данных и делится на две части, каждая продолжается один учебный год. Программу можно проходить только последовательно. Занятия ведут местные преподаватели, прошедшие специальный отбор и обучение. Яндекс.Лицей помогает преподавателям и курирует их работу на протяжении учебного процесса. Возраст детей: 8 - 9 класс Финансирование: бюджет РК Срок реализации: 2 года ЗАЧИСЛЕНИЕ НА ПРОГРАММУ ПРОЕКТ «ЯНДЕКС.ЛИЦЕЙ» ПРОВОДИТСЯ ПОСЛЕ ТЕСТИРОВАНИЯ И СОБЕСЕДОВАНИЯ" id="Point05" pan="-190.07" url="" title="Официальная программа проекта «Яндекс.Лицей» -&#xa;«ОСНОВЫ ПРОГРАММИРОВАНИЯ НА ЯЗЫКЕ PYTHON»" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingroll="-1.9" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-2.2" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:50" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node14" copyright="" title="14" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-11.67" skinid="ht_node" description="" id="Point01" pan="-269.35" url="{node13}" title="Назад" target=""/>
+      <hotspot tilt="-7.88" skinid="ht_node" description="" id="Point02" pan="-296.19" url="{node12}" title="Выход" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingroll="-2.2" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-1.9" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:52" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node15" copyright="" title="16" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-15.22" skinid="ht_node" description="" id="Point01" pan="-259.28" url="{node16}" title="Осмотр" target=""/>
+      <hotspot tilt="-16.26" skinid="ht_info" description="ПРОГРАММИРОВАНИЕ РОБОТОВ: SCRATCH и C++&#xa;&#xa;&#xa;&#xa;Основы построения алгоритмов (изучение самого понятия «Алгоритм», обучение нахождению закономерностей и формулированию последовательности действий, необходимых для выполнения задач, обучение построению алгоритма на основе блок-схем).&#xa; &#xa;&#xa;Программирование на языке Scratch (первые шаги в алгоритмизации процессов: изучение событий, работы сенсоров, операторов и последовательности команд).&#xa; &#xa;&#xa;Создание мобильных роботов на технологических платформах Makeblock, Arduino и Tetrix (проектирование и конструирование роботов. В проектной форме работа над автоматизацией поставленных задач с использованием профессиональных сред разработки и языков программирования).&#xa; &#xa;&#xa;Пробуем свои силы в создании виртуальных роботов в Scratch, применяем полученные знания во время проектирования и сборки вездеходов и манипуляторов.&#xa; &#xa;Изучим самый популярный синтаксис программирования в мире. Огромное количество языков испытали влияние на С (читается «Си») Он лег в основу таких языков программирования, как Java, PHP, Go и многих других.&#xa; &#xa;Создим собственные анимированные и интерактивные проекты.&#xa;&#xa;Возраст детей: от 10 до 17 лет&#xa;Финансирование: бюджет РК&#xa;Срок реализации: 2 года" id="Point02" pan="-249.35" url="" title="ПРОГРАММИРОВАНИЕ РОБОТОВ: SCRATCH и C++" target=""/>
+      <hotspot tilt="-20.92" skinid="ht_info" description="В рамках данного направления юные программисты познакомятся с понятием &quot;алгоритм&quot;, научатся находить закономерности и формулировать последовательность действий, необходимую для выполнения задачи. Познакомятся с увлекательным языком программирования Scratch, будут обучены основным инструментам и возможностям данной компьютерной программы. Сделают первые шаги в автоматизации процессов: изучат события, работу сенсоров, операторы и последовательности команд. Познакомятся с понятиями «переменная», «процедура», «цикл». Научатся применять полученные знания на практике: от создания простой анимации, презентаций, мини-мультфильмов, мини-игр до разработки многоуровневых игр с сюжетом и звуковым сопровождением и многосерийных мультфильмов, фильмов. Возраст детей: от 8 до 10 лет&#xa;Финансирование: софинансирование ПФ&#xa;Срок реализации: 1 год" id="Point03" pan="-234.65" url="" title="SCRATCH (ОСНОВЫ АЛГОРИТМИКИ И ЛОГИКИ)&#xa;" target=""/>
+      <polyhotspot description="" id="Poly01" url="{node6}" title="" target="">
+        <polystring>-162.27/5.72|-184.16/5.69|-183.53/-24.18|-162.29/-22.59</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingroll="-2.2" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944" levelbias="0.400" leveltilesize="510" levelingpitch="-1" height="1944" levelbiashidpi="1.000" overlap="1">
+      <level preload="0" width="1944" height="1944" predecode="0"/>
+      <level preload="0" width="972" height="972" predecode="0"/>
+      <level preload="1" width="486" height="486" predecode="1"/>
+      <preview color="0x000000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25.01.2021 18:52" tags="Папка Для Экскурсии" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="node16" copyright="" title="17" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" bordercolor="0x000000" background="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" backgroundalpha="1" height="20" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0xff0000" mode="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0xff0000" borderalpha="1"/>
+      <hotspot tilt="-15.37" skinid="ht_node" description="" id="Point01" pan="-173.47" url="{node15}" title="Назад" target=""/>
+      <polyhotspot description="" id="Poly01" url="{node6}" title="" target="">
+        <polystring>-224.86/-17.96|-220.94/-16.77|-221.3/-13.74|-220.22/-14.23|-219.4/-14.28|-218.72/-14.24|-217.63/-11.85|-217.86/2.29|-225.57/2.83|-225.41/-10.07</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" blendcolor="0x000000" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" invertcontrol="1" hideabout="0" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" tags="" longitude="" author="" info="" heading="0" source="" description="" latitude="" comment="" nodeid="master" copyright="" title="" customnodeid=""/>
+  </masternode>
+</tour>
